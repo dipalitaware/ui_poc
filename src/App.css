@@ -36,3 +36,77 @@
     transform: rotate(360deg);
   }
 }
+
+form {
+  margin: 25px; 
+  padding: 10px;
+ }
+ 
+ .cust-btn {
+   margin: 15px;
+ }
+ .cust-footer {
+   text-align: center;
+   justify-content: center;
+   background-color:hsl(237, 100%, 77%);
+   bottom: 0%;
+ }
+ .cust-data {
+   border: solid 2px;
+   height: 300px;
+   width: 600px;
+   background-color: lab(69.01% 5.97 -1.92);
+   margin-left: 50px;
+   padding: 35px;
+   justify-content: center;
+ }
+ .cust-img {
+ width: 100%;
+ }
+ .img-icon {
+   height: 35px;
+   width: 35px;
+ }
+ .cust-navbar {
+   justify-content: end;
+ }
+ .cust-title {
+   text-align: center;
+   padding: 20px;
+   color: lab(23.43% 21.6 30.71);
+   text-decoration: underline;
+ }
+ 
+ .cust-title:hover {
+    color: #32b119;
+ }
+ .form-align {
+   margin-left: 450px;
+ }
+ .card-img {
+   height: 100%;
+   width: 100%;
+ }
+ .text-align {
+   height: 200px;
+   width: 250px;
+ }
+ .card-align {
+   margin: 20px;
+ }
+ .card-border {
+   border: solid 1px #4b2323;
+ }
+.cust-main-div {
+  background-color: lab(83.18% -9.23 23.38);
+}
+.register-btn {
+    float: right;
+}
+form:hover {
+    background-color: #8fdc7f;
+}
+
+Nav:hover {
+  color: purple;
+}
